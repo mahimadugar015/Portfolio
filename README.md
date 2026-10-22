@@ -37,3 +37,10 @@ This is a static website, so it can be deployed directly through GitHub Pages, N
 
 ## Added credentials
 The `documents/` folder contains the uploaded patent records and certificates, while `assets/` contains preview images used in the Credentials section.
+
+
+## Recent updates
+- LinkedIn, GitHub, and Email links are visible near the top of the landing page.
+- The introduction is shorter; the original portfolio sections and visual style are retained.
+- Added clickable ServiceNow certificate image, separate IEEE Xplore record image, and the brain-tumor patent PDF.
+- Open `index.html` in a browser, or use Live Server in VS Code.
